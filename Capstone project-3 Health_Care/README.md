@@ -4,16 +4,19 @@
 
 ## 1. Data Collection
 
-[Data Collection Notbook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-2/Mental%20health%20and%20substance%20use%20disorders_data%20wrangling.ipynb)
+[Data Collection Notbook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-3%20Health_Care/1-Tweets%20collection.ipynb)
+
 The tweets data was scraped by using tweepy based on health keywords from Twitter API.
 
 ## 2. Data Wangling 
 
-[Data Wangling Notbook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-2/Mental%20health%20and%20substance%20use%20disorders_data%20wrangling.ipynb)
+[Data Wangling Notbook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-3%20Health_Care/2_Data_wrangling.ipynb)
+
 Regular data cleaning
 * NA data
 * Duplicates
 * Change the type of some columns
+
 Text data cleaning
 * Make text all lower case
 * Remove URLs
@@ -23,7 +26,7 @@ Text data cleaning
 
 ## 3. EDA
 
-[EDA Notebook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-2/Mental%20health%20and%20substance%20use%20disorders_EDA.ipynb)
+[EDA Notebook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-3%20Health_Care/3-Exploratory-Data-Analysis.ipynb)
 
 Here are some main findings from EDA.
 * Vocabulary from all tweets without unmeaning frequent words. 
@@ -34,9 +37,9 @@ Here are some main findings from EDA.
 
 ## 4. Sentiment Analysis
 
-[Sentiment Analysis Notebook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-2/Mental%20health%20and%20substance%20use%20disorders_Modeling.ipynb) 
+[Sentiment Analysis Notebook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-3%20Health_Care/4_Sentiment%20Analysis-Copy1.ipynb) 
 
-* Sentiment count
+* Sentiment count.
 ![](./figures/bar_sentiment_count.png)
-* Health words frequency in each sentiment category
+* Health words frequency in each sentiment category.
 ![](./figures/bar_keywords_frequency_sentiment.png)
