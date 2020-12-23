@@ -37,9 +37,9 @@ Here are some main findings from EDA.
 
 ## 4. Sentiment Analysis
 
-[Sentiment Analysis Notebook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-3%20Health_Care/4_Sentiment%20Analysis-Copy1.ipynb) 
+[Sentiment Analysis Notebook](https://github.com/yuhan0623/Springboard/blob/master/Capstone%20project-3%20Health_Care/4_Sentiment%20Analysis.ipynb) 
 
-* Sentiment count.
+* Sentiment count.  
 ![](./figures/bar_sentiment_count.png)
 * Health words frequency in each sentiment category.
 ![](./figures/bar_keywords_frequency_sentiment.png)
